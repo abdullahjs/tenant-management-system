@@ -71,6 +71,29 @@
                         <div class="card-body p-5">
                             <form class="row g-3">
                                 <div class="col-12">
+                                    <h5>House/ Flat Information</h5>
+                                </div>
+                                <div class="col-4">
+                                    <label for="inputAddress2" class="form-label">Flat/Floor: </label>
+                                    <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
+                                </div>
+                                <div class="col-4">
+                                    <label for="inputAddress2" class="form-label">House/Holding No: </label>
+                                    <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
+                                </div>
+                                <div class="col-4">
+                                    <label for="inputAddress2" class="form-label">Road: </label>
+                                    <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
+                                </div>
+                                <div class="col-6">
+                                    <label for="inputAddress2" class="form-label">Area Name: </label>
+                                    <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
+                                </div>
+                                <div class="col-6">
+                                    <label for="inputAddress2" class="form-label">Postal Code: </label>
+                                    <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
+                                </div>
+                                <div class="col-12">
                                     <h5>Personal Information</h5>
                                 </div>
                                 <div class="col-6">
